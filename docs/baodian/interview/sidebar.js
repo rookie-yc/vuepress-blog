@@ -9,7 +9,7 @@ module.exports = [
       {title: "JS-Web-API", path:"/baodian/interview/notes/JS-Web-API知识点与高频考题解析"},
       {title: "浏览器相关", path:"/baodian/interview/notes/浏览器相关知识点与高频考题解析"},
       {title: "开发环境", path:"/baodian/interview/notes/开发环境相关知识点与高频考题解析"},
-    
+      {title: "敬请期待", path:"/baodian/interview/notes/敬请期待"},
     ],
   }, 
 ];
