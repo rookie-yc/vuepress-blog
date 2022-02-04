@@ -1,7 +1,7 @@
 module.exports = {
   title: "rookie_yin的个人博客",
   description: "My tech blog",
-  port: "1345",
+  port: "1227",
   head: [
     ["link", { rel: "icon", href: "/img/mao.jpg" }],
     ],
